@@ -3,6 +3,7 @@
 ## Proyecto I 
 > Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas.
 
+**Canal de Slack: #Guild-inter-art**
 
 ### Bases
 - Generar obras interactivas y unicas con la biometría de las personas
@@ -35,5 +36,5 @@
 - @rubenmoreno94 Ruben (HW/SW) desde noviembre únicamente
 
 
-Canal de Slack: #Guild-inter-art
+
 
