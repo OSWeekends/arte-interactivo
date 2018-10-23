@@ -1,5 +1,9 @@
 # Guild de Arte interactivo y Programación Creativa
 
+## Proyecto I 
+> Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas.
+
+
 ### Bases
 - Generar obras interactivas y unicas con la biometría de las personas
 - Incontrovertidas
@@ -21,11 +25,15 @@
 - Librerías especiales (d3, three, processing, p5, etc...)
 
 ### Miembros del Guild
-- Ricardo (Lider)
-- Gloria (Software)
-- Gonzalo (SW/HW)
-- Santiago (SW)
-- Ulises (Apoyo)
-- Alicia y Esperanza (SW/HW)
-- Theba (SW)
-- Ruben (HW/SW) *desde noviembre únicamente*
+- @RicCaralca Ricardo (Lider)
+- @gloriavazquez Gloria (Software)
+- @guceda Gonzalo (SW/HW)
+- @trigoporres Santiago (SW)
+- @UlisesGascon (Apoyo)
+- @AliciayEsperanza (SW/HW)
+- @KoolTheba (SW y PM)
+- @rubenmoreno94 Ruben (HW/SW) desde noviembre únicamente
+
+
+Canal de Slack: #Guild-inter-art
+
